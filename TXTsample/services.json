@@ -1,9 +1,0 @@
-{
-  "id": "com.domain.app.TXTsample",
-  "description": "HelloWorld Service",
-  "services": [
-    {
-      "name": "com.domain.app.TXTsample"
-    }
-  ]
-}

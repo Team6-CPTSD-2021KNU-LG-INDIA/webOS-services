@@ -1,0 +1,9 @@
+{
+  "id": "com.domain.txtapp.txtservice",
+  "description": "txt read service",
+  "services": [
+    {
+      "name": "com.domain.txtapp.txtservice"
+    }
+  ]
+}

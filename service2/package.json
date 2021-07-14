@@ -1,0 +1,11 @@
+{
+  "name": "com.domain.app2.service2",
+  "version": "1.0.0",
+  "description": "app2 service",
+  "main": "service.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD"
+}
